@@ -15,3 +15,7 @@ git status
 git commit
 git commit -m "your massage"   //
 git log 
+
+git push -u origin BRANCH-NAME // to push your commits to remote ,and set a tracking branch
+
+enter gihub username and password, create a pull request on github,fill out the body of the pull request with infomation about the changes
