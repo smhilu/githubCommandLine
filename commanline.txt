@@ -1,0 +1,17 @@
+git --version
+git config --global username "chenyusheng"
+git config --global email "75252112@qq.com"
+git config --global core.autocrlf true
+git config --list
+git clone URL
+git status
+git branch BRANCH-NAME
+//git status to see branch
+git checkout branch-name  // check out  to new branch
+git status //to verify the branch status
+
+git add file-name
+git status
+git commit
+git commit -m "your massage"   //
+git log 
